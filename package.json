@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"css": "unocss \"./src/**/*.jsx\" -o \"uno.css\" -w"
+	},
+	"dependencies": {
+		"@unocss/cli": "^0.34.0",
+		"unocss": "^0.34.0"
+	}
+}
